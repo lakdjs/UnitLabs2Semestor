@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f413df54-ae75-42b2-a692-cb9d7373b53c" name="Changes" comment="" />
+    <list default="true" id="f413df54-ae75-42b2-a692-cb9d7373b53c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/_Source/EnemySystem/ABaseEnemy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Source/EnemySystem/ABaseEnemy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Source/EnemySystem/EnemyType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Source/EnemySystem/EnemyType.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityLabs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityLabs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/PlayerSystem/IAttackStrategy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/PlayerSystem/IAttackStrategy.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717495539763</updated>
-      <workItem from="1717495542372" duration="2579000" />
+      <workItem from="1717495542372" duration="3928000" />
     </task>
     <servers />
   </component>
