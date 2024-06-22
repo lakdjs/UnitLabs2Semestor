@@ -4,6 +4,6 @@
     {
         Melee,
         Archer,
-        ThirdEnemy
+        Shooter
     }
 }

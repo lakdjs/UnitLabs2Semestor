@@ -1,7 +1,11 @@
+using System;
+using Unity.VisualScripting;
+
 namespace PlayerSystem
 {
     public class AttackPerformer
     {
+        public static event Action OnAttack; 
         private IAttackStrategy _attackStrategy;
 
         public AttackPerformer(IAttackStrategy attackStrategy)
@@ -18,6 +22,7 @@ namespace PlayerSystem
         public void PerformAttack()
         {
             _attackStrategy.Attack();
+            OnAttack?.Invoke();
         }
     }
 }
